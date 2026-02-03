@@ -47,7 +47,7 @@ chmod +x server-manager.sh
 
 3. Execute o sistema:
 ```bash
-./server-manager.sh
+    ./server-manager.sh
 ```
 
 ## 📖 Como Usar
