@@ -18,6 +18,7 @@ Sistema completo em shell script para acesso remoto e manutenção de servidores
 ```bash
 pkg update && pkg upgrade
 pkg install openssh ping net-tools tar nc
+mv /data/data/com.termux/files/home/SSHCLIENTE-BASH/ssh.sh /data/data/com.termux/files/usr/bin/ssh-client && chmod +x /data/data/com.termux/files/usr/bin/ssh-client
 ```
 
 ### Para Linux:
